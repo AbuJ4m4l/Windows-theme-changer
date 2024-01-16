@@ -4,7 +4,8 @@ A simple Rust application to switch between Dark and Light themes on Windows.
 
 ## Description 📝
 
-This Rust program allows users to change their Windows theme color between Dark and Light modes. It works by modifying the Windows Registry settings. Because there are some windows users can't change the theme color.
+This Rust program allows users to change their Windows theme color between Dark and Light modes. It works by modifying the Windows Registry settings. 
+Because there are some windows users can't change the theme color.
 
 ## How It Works 🔧
 
